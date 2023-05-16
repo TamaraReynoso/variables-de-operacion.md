@@ -8,3 +8,4 @@ Algoritmo ejercicioSuma
 	
 	Escribir "El resultado es:",B + VariableQueGuardeElSegundoNumero 
 FinAlgoritmo 
+
